@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AVPK
-- 👀 I’m interested in Web Technoligies
-- 🌱 I’m currently working as JavaScript Engineer with Splash
+- 👀 I’m interested in Web technology
+- 🌱 I’m currently working as a Stack Product Engineer with Splash
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me awaisoffwork@gmail.com
 
