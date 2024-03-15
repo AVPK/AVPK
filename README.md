@@ -1,10 +1,9 @@
 ### Hi there, I'm [Awais Ahmed Shahid](https://AVPK.github.io) 👋
-
-I am a versatile and experienced software engineer, with a focus on front-end development.
+I'm a versatile and experienced software engineer with a strong foundation in both front-end and back-end development. My passion lies in creating beautiful and functional web applications, leveraging my front-end expertise to craft intuitive user interfaces and seamless user experiences. While comfortable tackling full-stack challenges, my true joy comes from pushing the boundaries of the front-end, implementing innovative features, and staying on top of the latest trends. I'm a firm believer in clean code, collaborative development, and building robust applications from the ground up. Let's chat about your project and see how I can contribute my skills to make it a success!
 
  **I am open to**:
 
-- any collaboration work,
+- Collaboration work,
 - Full Stack projects(development or research),
 - part-time gig.
 
@@ -12,20 +11,19 @@ I am a versatile and experienced software engineer, with a focus on front-end de
 
 #### Languages:
 
-![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![HTML/CSS](https://img.shields.io/badge/HTML-CSS-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=flat&&logo=mongodb&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-316192?style=flat&&logo=firebase&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
@@ -38,7 +36,6 @@ I am a versatile and experienced software engineer, with a focus on front-end de
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/awais)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://avpk.github.io)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/awaisahmedshahid/)
@@ -46,9 +43,10 @@ I am a versatile and experienced software engineer, with a focus on front-end de
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/awaisahmedshahid)
 </p>
 
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
 
 [<img src="https://github-profile-trophy.vercel.app/?username=AVPK&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=AVPK&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
