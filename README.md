@@ -10,7 +10,6 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 ## Skills:
 
 #### Languages:
-[![JavaScript](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![HTML/CSS](https://img.shields.io/badge/HTML-CSS-ED8B00?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -19,7 +18,7 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
 🛠️ Technologies and Tools I use:
-
+[![JavaScript](https://skillicons.dev/icons?i=js,html,css,bootstrap,cloudflare,codepen,d3,figma,firebase,express,electron,gcp,docker,fastapi,graphql,heroku,linux,materialui,mongodb,mysql,sqlite,postgres,prisma,powershell,py,pytorch,react,redux,redis,sass,styledcomponents,tailwind,threejs,ts,ubuntu,vscode,vite,vitest,jest,webpack,windows,mac,wordpress,netlify,nginx,nodejs,nextjs,notion,npm,ps,postman,yarn,pnpm,devto,bun,git,github,githubactions,gitlab,bitbucket,bash,babel,androidstudio,wasm,aiscript, )](https://skillicons.dev)
 
 #### Database
 
