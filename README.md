@@ -10,13 +10,16 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 ## Skills:
 
 #### Languages:
-
+[![JavaScript](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![HTML/CSS](https://img.shields.io/badge/HTML-CSS-ED8B00?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
+🛠️ Technologies and Tools I use:
+
 
 #### Database
 
