@@ -18,7 +18,7 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
 🛠️ Technologies and Tools I use:
-[![JavaScript](https://skillicons.dev/icons?i=js,html,css,bootstrap,cloudflare,codepen,d3,figma,firebase,express,electron,gcp,docker,fastapi,graphql,heroku,linux,materialui,mongodb,mysql,sqlite,postgres,prisma,powershell,py,pytorch,react,redux,redis,sass,styledcomponents,tailwind,threejs,ts,ubuntu,vscode,vite,vitest,jest,webpack,windows,mac,wordpress,netlify,nginx,nodejs,nextjs,notion,npm,ps,postman,yarn,pnpm,devto,bun,git,github,githubactions,gitlab,bitbucket,bash,babel,androidstudio,wasm,aiscript, )](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js,html,css,bootstrap,cloudflare,codepen,d3,figma,firebase,express,electron,gcp,docker,fastapi,graphql,heroku,linux,materialui,mongodb,mysql,sqlite,postgres,prisma,powershell,py,pytorch,react,redux,redis,sass,styledcomponents,tailwind,threejs,ts,ubuntu,vscode,vite,vitest,jest,webpack,windows,wordpress,netlify,nginx,nodejs,nextjs,notion,npm,ps,postman,yarn,pnpm,devto,bun,git,github,githubactions,gitlab,bitbucket,bash,babel,androidstudio,wasm,aiscript, )](https://skillicons.dev)
 
 #### Database
 
@@ -39,7 +39,7 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 <p align = "center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://avpk.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/awaisahmedshahid) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/awaisahmedshahid/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@awaisahmedshahid)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/awaisahmedshahid)
@@ -50,10 +50,10 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 | ------------- | ------------- |
 -->
 
-[<img src="https://github-profile-trophy.vercel.app/?username=AVPK&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AVPK&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[<img src="https://github-readme-stats.vercel.app/api?username=AVPK&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVPK&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-profile-trophy.vercel.app/?username=AVPK&row=2&column=3" />](https://github.com/avpk/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AVPK&theme=dark)](https://github.com/avpk/github-readme-streak-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=AVPK&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/avpk/github-readme-stats)
+[![AV's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVPK&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/avpk/github-readme-stats)
 
 
 <!--
@@ -66,6 +66,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
