@@ -52,7 +52,7 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AVPK&theme=dark)
 ![AV's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVPK&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)
-<img src="https://github-profile-trophy.vercel.app/?username=AVPK&row=2&column=3" />
+<img src="https://github-profile-trophy.vercel.app/?username=AVPK&row=1&column=9" />
 
 
 <!--
