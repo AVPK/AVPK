@@ -17,9 +17,6 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 ![PHP](https://img.shields.io/badge/PHP-%23000000.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
-🛠️ Technologies and Tools I use:
-[![JavaScript](https://skillicons.dev/icons?i=js,html,css,bootstrap,cloudflare,codepen,d3,figma,firebase,express,electron,gcp,docker,fastapi,graphql,heroku,linux,materialui,mongodb,mysql,sqlite,postgres,prisma,powershell,py,pytorch,react,redux,redis,sass,styledcomponents,tailwind,threejs,ts,ubuntu,vscode,vite,vitest,jest,webpack,windows,wordpress,netlify,nginx,nodejs,nextjs,notion,npm,ps,postman,yarn,pnpm,devto,bun,git,github,githubactions,gitlab,bitbucket,bash,babel,androidstudio,wasm,aiscript, )](https://skillicons.dev)
-
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&&logo=mysql&logoColor=white)&nbsp;
@@ -33,6 +30,9 @@ I'm a versatile and experienced software engineer with a strong foundation in bo
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+
+🛠️ All Technologies and Tools I use:
+[![JavaScript](https://skillicons.dev/icons?i=js,html,css,bootstrap,cloudflare,codepen,d3,figma,firebase,express,electron,gcp,docker,fastapi,graphql,heroku,linux,materialui,mongodb,mysql,sqlite,postgres,prisma,powershell,py,pytorch,react,redux,redis,sass,styledcomponents,tailwind,threejs,ts,ubuntu,vscode,vite,vitest,jest,webpack,windows,wordpress,netlify,nginx,nodejs,nextjs,notion,npm,ps,postman,yarn,pnpm,devto,bun,git,github,githubactions,gitlab,bitbucket,bash,babel,androidstudio,wasm,aiscript, )](https://skillicons.dev)
 
 ## Connect with me:
 
